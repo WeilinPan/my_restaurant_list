@@ -1,4 +1,4 @@
-#Restaurant List
+# Restaurant List
 
 This is a restaurant list web site which built with Express, Node.js and Express-handlebar.
 
@@ -9,7 +9,7 @@ It's a practice project from Alpha camp.
 1. Download the file from GitHub or clone on your teminal
 
    ```
-   git clone https://github.com/WeilinPan/restaurant_list
+   git clone https://github.com/WeilinPan/my_restaurant_list
    ```
 
 2. Install npm
